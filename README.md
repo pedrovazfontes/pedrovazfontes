@@ -12,7 +12,7 @@ Tecnologias em aprendizado
 
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
-<img width="80" height= "80" alt="PowerApps" src="https://miro.medium.com/max/256/1*2hgWgLPZeCFY2ClIstwLyA.png"/>
+<img width="80" height= "90" alt="PowerApps" src="https://miro.medium.com/max/256/1*2hgWgLPZeCFY2ClIstwLyA.png"/>
 
 ![image](https://miro.medium.com/max/256/1*2hgWgLPZeCFY2ClIstwLyA.png = 100x)
 
