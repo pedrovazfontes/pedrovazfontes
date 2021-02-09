@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-Sou Pedro, estudando de Sistemas de Informação . Atualmente, trabalhando na área de Suporte aos Usuários N1💻 com atendimento de chamados com SLA dando suporte aos colaboradores👨‍💻.
+Sou Pedro, estudante de Sistemas de Informação e trabalho na área de Suporte aos Usuários N1💻 com atendimento de chamados com SLA dando suporte aos colaboradores👨‍💻.
 
 Iniciante na programação e no mundo Linux.
 
-
+Tecnologias em aprendizado
+- <img src="HTML5" href"https://simpleicons.org/icons/html5.svg"></img>
 
 
 
