@@ -5,7 +5,7 @@ Sou Pedro, estudante de Sistemas de Informação e trabalho na área de Suporte 
 Iniciante na programação e no mundo Linux.
 
 Tecnologias em aprendizado
-- <img src="HTML5" href"https://simpleicons.org/icons/html5.svg"></img>
+- <img><a href ="https://simpleicons.org/icons/html5.svg"></a>#</img>
 
 
 
