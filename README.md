@@ -16,7 +16,7 @@ Desenvolvimento 👨‍💻
 
 Aplicações Web 🖥
 
-<img width="100" height= "100" text-align="left" alt="PowerApps" src="https://miro.medium.com/max/256/1*2hgWgLPZeCFY2ClIstwLyA.png"/>
+<img width="100" height= "100" text-align="left" padding="10px" alt="PowerApps" src="https://miro.medium.com/max/256/1*2hgWgLPZeCFY2ClIstwLyA.png"/>
 
 <img width="100" height= "100" text-align="left" alt="PowerAutomate" src="https://www.anttext.com/wp-content/uploads/2020/01/Power-Automate-Icon.png"/>
 
