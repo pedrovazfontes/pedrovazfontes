@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Sou Pedro, estudante de Sistemas de Informação e trabalho na área de Suporte aos Usuários N1💻 com atendimento de chamados com SLA dando suporte aos colaboradores🤓
+Sou Pedro, trabalho na área de Suporte aos Usuários N1💻 com atendimento de chamados com SLA dando suporte aos colaboradores🤓 e estudante de Sistemas de Informação.
 
-Iniciante na programação e no mundo Linux.
+Iniciante na programação com as linguagens PHP, C# e Python e também conhecendo o mundo Linux.
 
 Tecnologias em aprendizado 🙃
 
@@ -16,10 +16,7 @@ Desenvolvimento 👨‍💻
 
 Aplicações Web 🖥
 
-<img width="100" height= "100" text-align="left" padding="10px" alt="PowerApps" src="https://miro.medium.com/max/256/1*2hgWgLPZeCFY2ClIstwLyA.png"/>
-
-<img width="100" height= "100" text-align="left" alt="PowerAutomate" src="https://www.anttext.com/wp-content/uploads/2020/01/Power-Automate-Icon.png"/>
-
+Aplicações web sem a necessidade de código, usando a Power Plataform: Power Apps, Automate(criação de fluxos) e apoio do office 365.
 
 
 
