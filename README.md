@@ -18,7 +18,7 @@ Desenvolvimento 👨‍💻
 
 Aplicações Web 🖥
 
-Aplicações web sem a necessidade de código, usando a Power Plataform: Power Apps, Automate(criação de fluxos) e apoio do office 365.
+Aplicações web sem a necessidade de código, usando a Power Plataform: Power Apps, Automate(criação de fluxos) com apoio do office 365.
 
 
 
