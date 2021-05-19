@@ -2,7 +2,7 @@
 
 Sou Pedro, trabalho na área de Suporte aos Usuários N1💻 com atendimento de chamados com SLA dando suporte aos colaboradores🤓 e estudante de Sistemas de Informação.
 
-Iniciante na programação com as linguagens C# e Python e também conhecendo o mundo Linux.
+Iniciante na programação com a linguagem Python e também conhecendo o mundo Linux.
 
 Tecnologias em aprendizado 🙃
 
