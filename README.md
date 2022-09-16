@@ -8,11 +8,21 @@ Tecnologias em aprendizado 🙃
 
 Desenvolvimento 👨‍💻
 
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50ox" height="50px"/>
 
-<img alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png/>
+<img alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" height"50px">
 
 <img alt="C#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50px" height="50px"/>
+
+<p>Xamarin</p>
+
+<img alt="Xamarin" src="https://img.icons8.com/color/344/xamarin.png" width="50px" height="50px"/>
+
+<p>Power BI</p>
+
+<img alt="PowerBI" src="https://cdn-icons-png.flaticon.com/512/4882/4882942.png" width="70px" height="70px"/>
+
+
 
 
 
