@@ -10,7 +10,7 @@ Desenvolvimento 👨‍💻
 
 <img alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50ox" height="50px"/>
 
-<img alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" height"50px"/>
+<img alt="CSS3" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="60px" height"60px"/>
 
 <img alt="C#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50px" height="50px"/>
 
