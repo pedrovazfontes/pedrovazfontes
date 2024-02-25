@@ -16,9 +16,6 @@ Desenvolvimento 👨‍💻
 
 <img alt="C#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50px" height="50px"/>
 
-<p>Xamarin</p>
-
-<img alt="Xamarin" src="https://img.icons8.com/color/344/xamarin.png" width="50px" height="50px"/>
 
 <p>Power BI</p>
 
