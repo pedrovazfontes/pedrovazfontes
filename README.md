@@ -1,6 +1,6 @@
 ### Eae Pessoal👋
 
-Sou Pedro, trabalho na área de Suporte aos Usuários N1💻 com atendimento de chamados com SLA dando suporte aos colaboradores🤓 e estudante de Sistemas de Informação.
+Sou Pedro, trabalho na área de Suporte aos Usuários N1💻 com atendimento de chamados, dando suporte aos colaboradores🤓, também possuo gradução em Sistemas de Informação na UNIFAFIBE e pós-graduando em Desenvolvimento FullStack pela PUC Minas.
 
 Em constante aprendizado, aqui você verá alguns exercicios da Faculdade e projetos pessoais, espero que goste 👍😎
 
