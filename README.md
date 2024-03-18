@@ -22,7 +22,7 @@ Desenvolvimento 👨‍💻
 
 <img alt="PowerBI" src="https://cdn-icons-png.flaticon.com/512/4882/4882942.png" width="70px" height="70px"/>
 
-
+<ion-icon name="logo-nodejs"></ion-icon>
 
 <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
 
