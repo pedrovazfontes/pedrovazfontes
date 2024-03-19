@@ -11,8 +11,9 @@ Desenvolvimento 👨‍💻
 <img alt="HTML5" src="![image](https://github.com/pedrovazfontes/pedrovazfontes/assets/61070351/8a7312ea-4a07-4cd9-8441-59aa1cefe809)" >
 
 
-<img alt="C#" src="https://www.flaticon.com/br/icone-gratis/css-3_732190?related_id=732190" />
-<ion-icon name="logo-html5"></ion-icon>
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 
 
 <p>Power BI</p>
