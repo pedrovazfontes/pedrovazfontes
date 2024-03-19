@@ -6,8 +6,6 @@ Em constante aprendizado, aqui você verá alguns projetos pessoais e da faculda
 
 Tecnologias em aprendizado 🙃
 
-Desenvolvimento 👨‍💻
-
 <div display="inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px" width="50px"/>
 
