@@ -1,4 +1,5 @@
 ### Olá, Pessoal👋
+<hr/>
 
 Sou Pedro, trabalho na área de Suporte aos Usuários N1💻 com atendimento de chamados, dando suporte aos colaboradores🤓, também possuo gradução em Sistemas de Informação na UNIFAFIBE e pós-graduando em Desenvolvimento FullStack pela PUC Minas.
 
@@ -19,6 +20,7 @@ Tecnologias em aprendizado 🙃
 
 </div>
 
+<hr/>
 
 
 
