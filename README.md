@@ -14,7 +14,7 @@ Desenvolvimento 👨‍💻
 <img alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50ox" height="50px"/>
 
 
-<img alt="C#" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50px" height="50px"/>
+<img alt="C#" src="https://www.flaticon.com/br/icone-gratis/css-3_5968242?term=css&page=1&position=3&origin=search&related_id=5968242" width="50px" height="50px"/>
 <ion-icon name="logo-html5"></ion-icon>
 
 
@@ -26,16 +26,7 @@ Desenvolvimento 👨‍💻
 
 
 
-<httml>
 
-<body>
-  <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
-</body>
-
-
-
-
-</html>
 
 
 
