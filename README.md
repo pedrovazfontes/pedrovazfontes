@@ -11,9 +11,6 @@ Desenvolvimento 👨‍💻
 <img alt="HTML5" src="https://www.flaticon.com/br/icone-gratis/html-5_174854?term=html+5&page=1&position=3&origin=search&related_id=174854" >
 
 
-<img alt="HTML5" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50ox" height="50px"/>
-
-
 <img alt="C#" src="https://www.flaticon.com/br/icone-gratis/css-3_732190?related_id=732190" />
 <ion-icon name="logo-html5"></ion-icon>
 
