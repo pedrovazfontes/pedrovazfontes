@@ -8,7 +8,11 @@ Tecnologias em aprendizado 🙃
 
 Desenvolvimento 👨‍💻
 
-<img alt="HTML5" src="![image](https://github.com/pedrovazfontes/pedrovazfontes/assets/61070351/8a7312ea-4a07-4cd9-8441-59aa1cefe809)" >
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 
 
