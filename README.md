@@ -8,7 +8,7 @@ Tecnologias em aprendizado 🙃
 
 Desenvolvimento 👨‍💻
 
-<img alt="HTML5" src="https://www.flaticon.com/br/icone-gratis/html-5_174854?term=html+5&page=1&position=3&origin=search&related_id=174854" >
+<img alt="HTML5" src="![image](https://github.com/pedrovazfontes/pedrovazfontes/assets/61070351/8a7312ea-4a07-4cd9-8441-59aa1cefe809)" >
 
 
 <img alt="C#" src="https://www.flaticon.com/br/icone-gratis/css-3_732190?related_id=732190" />
